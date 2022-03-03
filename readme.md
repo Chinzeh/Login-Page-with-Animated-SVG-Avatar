@@ -1,0 +1,1 @@
+This is a login page with an animated svg avatar made with HTML, CSS and JS.
